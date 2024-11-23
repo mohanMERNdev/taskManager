@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  background-color: lightgrey;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+h1 {
+  background-color: grey;
+  color: whitesmoke;
+  border-radius: 5px;
+  padding: 2px;
+}
